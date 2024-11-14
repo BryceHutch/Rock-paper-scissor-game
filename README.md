@@ -23,7 +23,7 @@ Importing random: <br/>
 
 <br />
 <br />
-Elif statements:  <br/>
+Player vs. Computer Choice:  <br/>
 <img width="827" alt="rock 2" src="https://github.com/user-attachments/assets/5fa2b843-d80e-4f28-b89e-a5f903757ee1">
 
 <br />
