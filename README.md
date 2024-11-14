@@ -19,17 +19,22 @@ A simple command-line Rock-Paper-Scissors game developed in Python. In this game
 
 <p align="center">
 Importing random: <br/>
-<img width="983" alt="rock 1" src="https://github.com/user-attachments/assets/a055049a-92d7-4a01-b668-00dad909aa0d">
+<img width="1000" alt="rock 1" src="https://github.com/user-attachments/assets/a055049a-92d7-4a01-b668-00dad909aa0d">
 
 <br />
 <br />
 Player vs. Computer Choice:  <br/>
-<img width="827" alt="rock 2" src="https://github.com/user-attachments/assets/5fa2b843-d80e-4f28-b89e-a5f903757ee1">
+<img width="1000" alt="rock 2" src="https://github.com/user-attachments/assets/5fa2b843-d80e-4f28-b89e-a5f903757ee1">
 
 <br />
 <br />
 Continuation: <br/>
-<img width="1089" alt="rock 3" src="https://github.com/user-attachments/assets/a2b470ff-3ce9-4bc1-bc58-636117804af4">
+<img width="1000" alt="rock 3" src="https://github.com/user-attachments/assets/a2b470ff-3ce9-4bc1-bc58-636117804af4">
+
+Running code: <br/>
+<img width="1000" alt="rock 4" src="https://github.com/user-attachments/assets/fe3cbade-2d95-4465-b992-b9e626b2c24c">
+
+
 
 
 
